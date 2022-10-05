@@ -6,7 +6,7 @@ const client = axios.create({
     key: '',
     part: "snippet",
     type: "video",
-    maxResults: 5,
+    maxResults: 10,
   }
 })
 
